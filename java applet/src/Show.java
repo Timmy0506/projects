@@ -4,7 +4,7 @@ import java.awt.*;
 public class Show extends Applet {
 
         public void init() {
-            setBackground(Color.blue);
+            setBackground(Color.white);
 
     }
     public void paint(Graphics g) {
